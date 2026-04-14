@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**BDvMax/BDvMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##BDvMax
+*IA researcher · developer · learner*
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**about**
+**stack**
+`Python` `Torch` `TypeScript` `React` `Node.js` `Next.js` `PostgreSQL` `Docker`
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BDvMax&show_icons=true&hide_border=true&theme=default&hide_title=true" />
+</div>
