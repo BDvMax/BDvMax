@@ -1,10 +1,7 @@
 <div align="center">
-
 ### BDvMax
 *IA researcher · developer · learner*
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=C084FC&center=true&vCenter=true&width=435&lines=%E2%88%82L%2F%E2%88%82%CE%B8+%3D+%E2%88%82L%2F%E2%88%82f+%C2%B7+%E2%88%82f%2F%E2%88%82g+%C2%B7+%E2%88%82g%2F%E2%88%82%CE%B8;training+transformers+at+the+edge;%E2%88%87+descending+every+loss+surface)
-
 </div>
 
 ---
@@ -26,9 +23,7 @@
 ---
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=BDvMax&hide_border=true&background=0a0612&ring=7c3aed&fire=c084fc&currStreakLabel=818cf8&sideLabels=818cf8&dates=4c1d95" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=BDvMax&hide_border=true&background=0a0612&ring=7c3aed&fire=c084fc&currStreakNum=e2d9f3&currStreakLabel=c084fc&sideNums=e2d9f3&sideLabels=818cf8&dates=a78bdc&stroke=4c1d95" />
 </div>
 
 ---
