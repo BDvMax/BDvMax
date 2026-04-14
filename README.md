@@ -9,21 +9,6 @@
 
 ---
 
-<div align="center">
-       · · · s i n g u l a r i t y · · ·
-
-          . ' ' . * . ' ' .
-       '   ___________   '
-     .   /     ███     \   .
-    *   |   ██ ███ ██   |   *
-     .   \___███████___/   .
-       '     ·····     '
-          · · · · · · ·
-
-    ∂/∂r(event horizon) → undefined
-
-</div>
-
 **⊗ stack**
 
 ![Python](https://img.shields.io/badge/Python-%230d0920?style=flat&logo=python&logoColor=c084fc)
