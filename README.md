@@ -1,6 +1,8 @@
 <div align="center">
 
-### BDvMax
+<img width="120" src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=11&duration=3000&pause=500&color=C084FC&center=true&vCenter=true&multiline=true&width=120&height=120&lines=++++◉+++;+++◌◉◌++;+◌+◉+◌++;+++◌◉◌++;++++◉+++" alt="black hole" />
+
+# BDvMax
 
 *IA researcher · developer · learner*
 
@@ -9,15 +11,3 @@
 ---
 
 **about**
-
----
-
-**stack**
-`Python` `Torch` `TypeScript` `React` `Node.js` `Next.js` `PostgreSQL` `Docker`
-`C++` `Java` `RabbitMQ`
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BDvMax&show_icons=true&hide_border=true&theme=default&hide_title=true" />
-</div>
