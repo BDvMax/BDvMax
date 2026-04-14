@@ -1,6 +1,7 @@
 <div align="center">
 
-##BDvMax
+###BDvMax
+
 *IA researcher · developer · learner*
 
 </div>
@@ -8,8 +9,12 @@
 ---
 
 **about**
+
+---
+
 **stack**
 `Python` `Torch` `TypeScript` `React` `Node.js` `Next.js` `PostgreSQL` `Docker`
+`C++` `Java` `RabbitMQ`
 
 ---
 
