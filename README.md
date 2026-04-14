@@ -44,7 +44,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=BDvMax&show_icons=true&hide_border=true&bg_color=0a0612&title_color=c084fc&text_color=818cf8&icon_color=38bdf8&hide_title=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=BDvMax&hide_border=true&background=0a0612&ring=7c3aed&fire=c084fc&currStreakLabel=818cf8&sideLabels=818cf8&dates=4c1d95" />
 
 </div>
 
