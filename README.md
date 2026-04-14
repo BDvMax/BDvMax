@@ -1,9 +1,5 @@
 <div align="center">
 
-(  _ (  _ \ / /(  /  ) / ( / )
-) _ < )() ))  (  )    (  )  / )  (
-(/(/(/_)(//_)_/_)(_/_)
-
 ### BDvMax
 *IA researcher · developer · learner*
 
@@ -27,23 +23,6 @@
     ∂/∂r(event horizon) → undefined
 
 </div>
-
----
-
-**∂ about**
-∂/∂t  working on  →  training transformers at the edge
-∇     learning    →  diffusion models · RLHF · compilers
-∮     collab      →  open source AI tooling
-✉     reach       →  your@email.com
-
----
-
-**∇² chain rule · backprop**
-L(θ)  →→→  ∂L/∂f  ··→  ∂f/∂g  ··→  ∂g/∂θ  →→→  ∂L/∂θ
-upstream    local      param         gradient
-dL/dθ = (∂L/∂f) · (∂f/∂g) · (∂g/∂θ)     ← chain rule
-
----
 
 **⊗ stack**
 
